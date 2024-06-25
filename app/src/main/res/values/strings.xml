@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EcommerceShop</string>
+    <string name="intro_title">Bước chân bạn vào <font color="#6033ba">\nThế giới thời trang</font></string>
+    <string name="intro_text">Giày đẹp, giá tốt!\nPhong cách, chất lượng, giá cả!\nNâng niu đôi chân bạn!</string>
+    <string name="intro_signin">Bạn đã có tài khoản? <font color="#6033ba"> <u>Đăng nhập</u></font></string>
+
+
+</resources>
